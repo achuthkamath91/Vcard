@@ -1,0 +1,4 @@
+services:
+#    vcard.example:
+#        class: vcardBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
